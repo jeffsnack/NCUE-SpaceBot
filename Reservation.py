@@ -17,8 +17,8 @@ def get_space(session, space_value):
     form_data = {
         'place_code': space_value,
         'no_vacancy': '0',
-        'tel': '0937093070',  # 請替換為實際的聯絡電話
-        'reason': '論文'  # 請替換為實際的申請事由 
+        'tel': '',  # 請替換為實際的聯絡電話
+        'reason': ''  # 請替換為實際的申請事由 
     }
 
     response = session.post(form_url, data=form_data)
