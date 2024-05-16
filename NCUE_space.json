@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Webex-1 視訊會議室",
+        "value": "W101",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=W101"
+    },
+    {
+        "name": "Webex-2 視訊會議室",
+        "value": "W201",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=W201"
+    },
+    {
+        "name": "Webex-3 視訊會議室",
+        "value": "W301",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=W301"
+    },
+    {
+        "name": "Webex-4 視訊會議室",
+        "value": "W401",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=W401"
+    },
+    {
+        "name": "Webex-5 視訊會議室",
+        "value": "W501",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=W501"
+    },
+    {
+        "name": "十舍研討室-2",
+        "value": "f018",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=f018"
+    },
+    {
+        "name": "十舍研討室-3",
+        "value": "f019",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=f019"
+    },
+    {
+        "name": "十舍研討室-4",
+        "value": "f020",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=f020"
+    },
+    {
+        "name": "綜合中心演講廳",
+        "value": "f005"
+    },
+    {
+        "name": "討論室甲",
+        "value": "L001",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=L001"
+    },
+    {
+        "name": "討論室乙",
+        "value": "L002",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=L002"
+    },
+    {
+        "name": "視聽研討室甲",
+        "value": "L008",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=L008"
+    },
+    {
+        "name": "視聽研討室乙",
+        "value": "L010",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=L010"
+    },
+    {
+        "name": "多功能會議室",
+        "value": "L012",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=L012"
+    },
+    {
+        "name": "演講廳",
+        "value": "L014",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=L014"
+    },
+    {
+        "name": "研究小間201",
+        "value": "l201"
+    },
+    {
+        "name": "研究小間202",
+        "value": "l202"
+    },
+    {
+        "name": "研究小間203",
+        "value": "l203"
+    },
+    {
+        "name": "研究小間204",
+        "value": "l204"
+    },
+    {
+        "name": "研究小間205",
+        "value": "l205"
+    },
+    {
+        "name": "研究小間206",
+        "value": "l206"
+    },
+    {
+        "name": "研究小間207",
+        "value": "l207"
+    },
+    {
+        "name": "研究小間208",
+        "value": "l208"
+    },
+    {
+        "name": "研究小間209",
+        "value": "l209"
+    },
+    {
+        "name": "湖畔廣場",
+        "value": "A001",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=A001"
+    },
+    {
+        "name": "于敦德展演廳",
+        "value": "A005",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=A005"
+    },
+    {
+        "name": "A202小活動室",
+        "value": "A202",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=A202"
+    },
+    {
+        "name": "A203小活動室",
+        "value": "A203",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=A203"
+    },
+    {
+        "name": "A204小活動室",
+        "value": "A204",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=A204"
+    },
+    {
+        "name": "A301律動舒活室",
+        "value": "A301",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=A301"
+    },
+    {
+        "name": "A302律動舒活室",
+        "value": "A302",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=A302"
+    },
+    {
+        "name": "A401揚鷹會議室",
+        "value": "A401",
+        "url": "https://apss.ncue.edu.tw/afair/order_form.php?place_code=A401"
+    }
+]
